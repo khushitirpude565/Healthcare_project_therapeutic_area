@@ -1,0 +1,6 @@
+sale_channel_id,channel_name,description
+1,Direct,Products sold directly to customers.
+2,Distributor,Sales through third-party distributors.
+3,E-commerce,Online sales through platforms and websites.
+4,Retail,Products sold through retail stores.
+5,Wholesale,Bulk sales to wholesale buyers.
